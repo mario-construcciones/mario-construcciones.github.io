@@ -1,3 +1,28 @@
+copyright = "krak-pol"
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mario Construcciones"
+theme = "i18n_and_gallery"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Portfolio"
+    pre = "layers"
+    url = "/portfolio/"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    pre = "pen-tool"
+    url = "/contact/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 4

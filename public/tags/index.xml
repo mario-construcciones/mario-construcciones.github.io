@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mario Construcciones</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Mario Construcciones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>krak-pol</copyright>
+    <lastBuildDate>Wed, 06 Oct 2021 12:06:56 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hause</title>
+      <link>http://example.org/tags/hause/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/tags/hause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piscina</title>
+      <link>http://example.org/tags/piscina/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/tags/piscina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taras</title>
+      <link>http://example.org/tags/taras/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/tags/taras/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
