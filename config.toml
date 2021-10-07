@@ -1,5 +1,5 @@
 copyright = "krak-pol"
-baseURL = "http://example.org/"
+baseURL = "https://mario-construcciones.github.io/"
 languageCode = "de-ge"
 title = "Mario Construcciones"
 theme = "i18n_and_gallery"
