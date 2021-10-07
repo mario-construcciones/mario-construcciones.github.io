@@ -1,0 +1,14 @@
+[House]
+other = "Haus"
+
+[Pool]
+other = "Schwimmbad"
+
+[Garden]
+other = "Garten"
+
+[language]
+other = "sprache"
+
+[mario_construction]
+other = "Mario Konstruktion"

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mario Construcciones</title>
+    <link>http://example.org/es/tags/</link>
+    <description>Recent content in Tags on Mario Construcciones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-ge</language>
+    <copyright>krak-pol</copyright>
+    <lastBuildDate>Wed, 06 Oct 2021 12:06:56 +0200</lastBuildDate><atom:link href="http://example.org/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casa</title>
+      <link>http://example.org/es/tags/casa/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/es/tags/casa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jardín</title>
+      <link>http://example.org/es/tags/jard%C3%ADn/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/es/tags/jard%C3%ADn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picina</title>
+      <link>http://example.org/es/tags/picina/</link>
+      <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
+      
+      <guid>http://example.org/es/tags/picina/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,5 +2,15 @@ This is built with Hugo.
 
 config.toml - contains basic config for the hugo
 
-Run `hugo -D` to build the static websites.
-Run `hugo server -D` to see it locally.
+To see it locally:  
+```bash
+hugo server -D
+```
+
+To publish run:  
+````bash
+hugo -D
+git push
+git subtree push --prefix public origin gh-pages
+```
+

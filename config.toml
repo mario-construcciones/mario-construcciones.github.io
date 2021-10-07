@@ -1,28 +1,63 @@
 copyright = "krak-pol"
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "de-ge"
 title = "Mario Construcciones"
 theme = "i18n_and_gallery"
 
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    pre = "home"
-    url = "/"
+DefaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.de]
+    contentDir = 'content/deutsh'
+    title = "Mario Gebäude"
+    languageName = "Deutsch"
     weight = 1
-  [[menu.main]]
-    name = "Portfolio"
-    pre = "layers"
-    url = "/portfolio/"
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+        name = "Haus"
+        pre = "home"
+        url = "/"
+        weight = 1
+        [[languages.de.menu.main]]
+          name = "Portfolio"
+          pre = "layers"
+          url = "/portfolio/"
+          weight = 2
+        [[languages.de.menu.main]]
+          name = "Kontact"
+          pre = "pen-tool"
+          url = "/contact/"
+          weight = 3
+        [[languages.de.menu.main]]
+          name = "Etikett"
+          pre = "tag"
+          url = "/tags/"
+          weight = 4
+
+  [languages.es]
+    contentDir = 'content/spanish'
+    title = "Mario Construcciones"
+    languageName = "Español"
     weight = 2
-  [[menu.main]]
-    name = "Contact"
-    pre = "pen-tool"
-    url = "/contact/"
-    weight = 3
-  [[menu.main]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 4
+
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Casa"
+        pre = "home"
+        url = "/"
+        weight = 1
+        [[languages.es.menu.main]]
+          name = "Carpeta"
+          pre = "layers"
+          url = "/portfolio/"
+          weight = 2
+        [[languages.es.menu.main]]
+          name = "Contacto"
+          pre = "pen-tool"
+          url = "/contact/"
+          weight = 3
+        [[languages.es.menu.main]]
+          name = "Etiqueta"
+          pre = "tag"
+          url = "/tags/"
+          weight = 4

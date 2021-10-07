@@ -1,14 +1,37 @@
 <div id="nav-border" class="container">
-    <nav id="nav" class="nav justify-content-center">
-        {{ range .Site.Menus.main }}
-        <a class="nav-link" href="{{ .URL }}">
-        {{ if .Pre }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-        {{ $icon }}
-        {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
-        </a>
-        {{ end }}
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="/">{{ i18n "mario_construction" }}</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            {{- $currentPage := . -}}
+            {{ range .Site.Menus.main -}}
+            <li class="nav-item">
+            <a class="nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" 
+                href="{{ .URL | absLangURL }}">
+            {{ if .Pre }}
+            {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+            {{ $icon }}
+            {{ end }}
+            {{ $text := print .Name | safeHTML }}
+            {{ $text }}
+            </a>
+            </li>
+            {{- end }}
+
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ i18n "language"}}
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                {{ range $.Site.Home.AllTranslations }}
+                <a class="dropdown-item" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                {{ end }}
+            </div>
+            </li>
+        </ul>
+      </div>
     </nav>
 </div>

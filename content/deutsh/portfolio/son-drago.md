@@ -2,9 +2,11 @@
 title: "Son Drago"
 date: 2021-10-06T12:06:56+02:00
 draft: false
-tags: ["piscina", "taras", "hause"]
+tags: ["Garten", "Schwimmbad", "Haus"]
 ---
 
+
+Dieser Inhalt ist auf Deutsch
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor 
