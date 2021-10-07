@@ -3,105 +3,105 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/de/tags/garten/</loc>
+    <loc>https://mario-construcciones.github.io/de/tags/garten/</loc>
     <lastmod>2021-10-06T12:06:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/de/tags/haus/</loc>
+    <loc>https://mario-construcciones.github.io/de/tags/haus/</loc>
     <lastmod>2021-10-06T12:06:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/de/</loc>
-    <lastmod>2021-10-06T12:06:56+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.org/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.org/de/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/de/portfolio/</loc>
+    <loc>https://mario-construcciones.github.io/de/</loc>
     <lastmod>2021-10-06T12:06:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/portfolio/"
+                href="https://mario-construcciones.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/portfolio/"
+                href="https://mario-construcciones.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/tags/schwimmbad/</loc>
-    <lastmod>2021-10-06T12:06:56+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/de/portfolio/son-drago/</loc>
+    <loc>https://mario-construcciones.github.io/de/portfolio/</loc>
     <lastmod>2021-10-06T12:06:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/portfolio/son-drago/"
+                href="https://mario-construcciones.github.io/es/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/portfolio/son-drago/"
+                href="https://mario-construcciones.github.io/de/portfolio/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/tags/</loc>
+    <loc>https://mario-construcciones.github.io/de/tags/schwimmbad/</loc>
+    <lastmod>2021-10-06T12:06:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mario-construcciones.github.io/de/portfolio/son-drago/</loc>
     <lastmod>2021-10-06T12:06:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://mario-construcciones.github.io/es/portfolio/son-drago/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/tags/"
+                href="https://mario-construcciones.github.io/de/portfolio/son-drago/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/categories/</loc>
+    <loc>https://mario-construcciones.github.io/de/tags/</loc>
+    <lastmod>2021-10-06T12:06:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://mario-construcciones.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/categories/"
+                href="https://mario-construcciones.github.io/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/de/contact/</loc>
+    <loc>https://mario-construcciones.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/contact/"
+                href="https://mario-construcciones.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.org/de/contact/"
+                href="https://mario-construcciones.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mario-construcciones.github.io/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mario-construcciones.github.io/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mario-construcciones.github.io/de/contact/"
                 />
   </url>
   

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mario Gebäude</title>
-    <link>http://example.org/de/tags/</link>
+    <link>https://mario-construcciones.github.io/de/tags/</link>
     <description>Recent content in Tags on Mario Gebäude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ge</language>
     <copyright>krak-pol</copyright>
-    <lastBuildDate>Wed, 06 Oct 2021 12:06:56 +0200</lastBuildDate><atom:link href="http://example.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 12:06:56 +0200</lastBuildDate><atom:link href="https://mario-construcciones.github.io/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Garten</title>
-      <link>http://example.org/de/tags/garten/</link>
+      <link>https://mario-construcciones.github.io/de/tags/garten/</link>
       <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
       
-      <guid>http://example.org/de/tags/garten/</guid>
+      <guid>https://mario-construcciones.github.io/de/tags/garten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haus</title>
-      <link>http://example.org/de/tags/haus/</link>
+      <link>https://mario-construcciones.github.io/de/tags/haus/</link>
       <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
       
-      <guid>http://example.org/de/tags/haus/</guid>
+      <guid>https://mario-construcciones.github.io/de/tags/haus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schwimmbad</title>
-      <link>http://example.org/de/tags/schwimmbad/</link>
+      <link>https://mario-construcciones.github.io/de/tags/schwimmbad/</link>
       <pubDate>Wed, 06 Oct 2021 12:06:56 +0200</pubDate>
       
-      <guid>http://example.org/de/tags/schwimmbad/</guid>
+      <guid>https://mario-construcciones.github.io/de/tags/schwimmbad/</guid>
       <description></description>
     </item>
     
