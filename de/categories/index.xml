@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mario Gebäude</title>
-    <link>http://example.org/de/categories/</link>
+    <link>https://mario-construcciones.github.io/de/categories/</link>
     <description>Recent content in Categories on Mario Gebäude</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ge</language>
-    <copyright>krak-pol</copyright><atom:link href="http://example.org/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>krak-pol</copyright><atom:link href="https://mario-construcciones.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
