@@ -8,7 +8,14 @@ other = "Picina"
 other = "Jardín"
 
 [language]
-other = "idoma"
+other = "Idoma"
 
 [mario_construction]
 other = "Mario Construcciones"
+
+[project]
+one = "proyecto"
+other = "proyectos"
+
+[Tags]
+other = "Etiquetas"

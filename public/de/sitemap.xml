@@ -78,20 +78,6 @@
   </url>
   
   <url>
-    <loc>https://mario-construcciones.github.io/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mario-construcciones.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mario-construcciones.github.io/de/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mario-construcciones.github.io/de/contact/</loc>
     <xhtml:link
                 rel="alternate"

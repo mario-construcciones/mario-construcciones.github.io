@@ -8,7 +8,14 @@ other = "Schwimmbad"
 other = "Garten"
 
 [language]
-other = "sprache"
+other = "Sprache"
 
 [mario_construction]
 other = "Mario Konstruktion"
+
+[project]
+one = "projekt"
+other = "projekte"
+
+[Tags]
+other = "Stichworte"

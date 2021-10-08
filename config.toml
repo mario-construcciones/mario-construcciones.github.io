@@ -3,9 +3,13 @@ baseURL = "https://mario-construcciones.github.io/"
 languageCode = "de-ge"
 title = "Mario Construcciones"
 theme = "i18n_and_gallery"
-
-DefaultContentLanguage = "de"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
+
+[taxonomies]
+  tag = "tags"
+
+
 [languages]
   [languages.de]
     contentDir = 'content/deutsh'
